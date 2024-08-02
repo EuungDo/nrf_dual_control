@@ -13,3 +13,6 @@ just fun
   
 4. nrf_senduino(Arduino_1)
     - Send data using 2.5GHz channel
+
+
+data can transmission to under 32byte
